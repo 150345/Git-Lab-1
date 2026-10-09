@@ -1,41 +1,50 @@
-# Collaborative Git Workflows
+# Student Study Planner
 
-| Key              | Value                                                                                                                                                                                                                                                        |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Course Codes** | BBT 4106                                                                                                                                                                                                                     |
-| **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13)                                                                                                                                                                             |
-| **Semester**     | April to July 2026                                                                                                                                                                                                           |
-| **Lecturer**     | Allan Omondi                                                                                                                                                                                                                 |
-| **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
-| **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
+## Project Overview
+
+The Student Study Planner is a project designed to help students organize their academic activities, plan study sessions, manage assignments, monitor their progress, and keep track of important deadlines.
+
+The project aims to support better time management, improve study organization, and help students stay on top of their academic responsibilities.
+
+## Project Objectives
+
+* Help students organize their subjects and courses.
+* Create and manage study schedules.
+* Track assignments, tasks, and deadlines.
+* Monitor study progress and completed activities.
+* Help students identify pending tasks and upcoming academic commitments.
+
+## Planned Features
+
+1. Subject Management:Organize subjects and courses.
+2. Study Schedule:Plan study sessions and daily learning activities.
+3. Assignment Tracking:Record assignments, due dates, and completion status.
+4. Progress Tracking:Monitor completed study tasks and outstanding activities.
+5. Deadline Management:Keep track of upcoming academic deadlines and reminders.
+
+## Team Contributions
+
+The project is developed collaboratively using Git and GitHub. Team members work on assigned issues using feature branches, submit pull requests, review each other's changes, and merge approved contributions into the main branch.
 
 ## Technology Stack
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/>
-</p>
+The technologies used to implement the Student Study Planner will be documented as they are confirmed by the project team.
 
 ## Repository Structure
 
-```text
-.
-├── LICENSE
-├── README.md
-├── RecommendedCitation.bib
-├── assets
-│   └── images
-│       └── UseSSH_notHTTPS.png
-├── lab_instructions_part0.md
-├── lab_instructions_part1.md
-└── lab_instructions_part2.md
+The repository contains the project documentation and the lab instruction files used during the collaborative Git workflow exercise.
 
-3 directories, 7 files
-```
+## Collaboration Workflow
 
-## Lab Manuals
+This project follows GitHub Flow:
 
-Refer to the files in the order specified below for more details:
+1. Select an assigned GitHub issue.
+2. Create a feature branch.
+3. Make and commit changes.
+4. Push the branch to GitHub.
+5. Open a pull request for review.
+6. Merge the approved changes into `main`.
 
-- [lab_instructions_part0.md](lab_instructions_part0.md)
-- [lab_instructions_part1.md](lab_instructions_part1.md)
-- [lab_instructions_part2.md](lab_instructions_part2.md)
+## Educational Context
+
+This repository is part of a collaborative Git workflow exercise for learning version control, teamwork, branching, pull requests, code review, and merge conflict resolution.
